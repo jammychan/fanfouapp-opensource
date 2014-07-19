@@ -23,3 +23,5 @@ com_crashlytics_export_strings.xml
 
 app/src/main/.classpath
 app/src/main/.project
+app/src/main/lint.xml
+
