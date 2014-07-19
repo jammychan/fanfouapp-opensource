@@ -20,3 +20,6 @@ target
 
 # for crashlytics
 com_crashlytics_export_strings.xml
+
+app/src/main/.classpath
+app/src/main/.project
